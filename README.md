@@ -64,7 +64,7 @@ Python is a high-level, general-purpose programming language known for its simpl
 
 Flask is a micro web framework written in Python. It's lightweight and easy to use for building web applications, making it an excellent choice for small to medium-sized projects.
 
-![Flask](https://www.vectorlogo.zone/logos/pocoo_flask/index.html)
+![Flask](https://uxwing.com/flask-logo-icon/)
 </details>
 
 <details>
