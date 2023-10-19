@@ -64,7 +64,7 @@ Python is a high-level, general-purpose programming language known for its simpl
 
 Flask is a micro web framework written in Python. It's lightweight and easy to use for building web applications, making it an excellent choice for small to medium-sized projects.
 
-![Flask](https://cdn.freebiesupply.com/logos/large/2x/flask-logo-png-transparent.png)
+![Flask](https://cdn.freebiesupply.com/logos/large/2x/flask-logo-black-and-white.png)
 </details>
 
 <details>
@@ -72,8 +72,7 @@ Flask is a micro web framework written in Python. It's lightweight and easy to u
 
 HTML (Hypertext Markup Language) is the standard markup language for creating web pages and web applications. It's used for structuring the content on the web.
 
-CSS (Cascading Style Sheets) is a style sheet language used for describing the look and formatting of a document written in HTML. It's essential for web design and layout.
-![HTML](https://media.giphy.com/media/SvFocn0wNMx0iv2rYz/giphy.gif)
+![HTML](https://media.giphy.com/media/l3vRfNA1p0rvhMSvS/giphy.gif)
 </details>
 
 <details>
@@ -81,7 +80,7 @@ CSS (Cascading Style Sheets) is a style sheet language used for describing the l
 
 CSS (Cascading Style Sheets) is a style sheet language used for describing the look and formatting of a document written in HTML. It's essential for web design and layout.
 
-![CSS](https://cdn-icons-png.flaticon.com/512/919/919826.pn)
+![CSS](https://cdn.freebiesupply.com/logos/large/2x/css3-logo-svg-vector.svg)
 </details>
 
 <details>
