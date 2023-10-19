@@ -45,7 +45,16 @@
                     <label style="color:#ebe5e6; font-weight: bold;">Search Here</label>&nbsp;&nbsp;<input type="text" name="search" id="searchBox" />
                 </p>
                 <h2 style="color:#ebe5e6; font-size: 24px; font-weight: bold;">Selected movies:</h2>
-                <div class="card-container" id="selectedMovies"></div>
+                <div class="card-container" id="selectedMovies">
+                    {% for movie in training_data %}
+                    <div class="card">
+                        <h4>{{ movie.title }}</h4>
+                        <p>Rating: {{ movie.rating }}</p>
+                        <p>IMDb Rating: {{ movie.imdbRating }}</p>
+                        <!-- Add more IMDb info fields as needed -->
+                    </div>
+                    {% endfor %}
+                </div>
                 <input type="button" class="btn btn-danger" name="predict" id="predict" value="Predict">
             </div>
             <div class="col-md-6">
